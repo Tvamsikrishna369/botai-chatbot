@@ -1,6 +1,5 @@
 import { Box, Stack, Typography, IconButton, Rating } from '@mui/material'
-// import ai from '../../assets/bot.png'
-import ai from '../../assets/person.png'
+import ai from '../../assets/bot.png'
 import human from '../../assets/person.png'
 import ThumbUpOffAltIcon from '@mui/icons-material/ThumbUpOffAlt';
 import ThumbDownOffAltIcon from '@mui/icons-material/ThumbDownOffAlt';
